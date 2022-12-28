@@ -1,4 +1,4 @@
-##Proyecto de análisis de datos en python (SIN PANDAS ❌🐼❌) 
+## Proyecto de análisis de datos en python (SIN PANDAS ❌🐼❌) 
 
 En este repo encontreremos dos archivos.
 
